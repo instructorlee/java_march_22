@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="ZooApp" project="ZooApp" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="test.java.DemoTests" time="0.0" displayname="DemoTests" uniqueid="[engine:junit-jupiter]/[class:test.java.DemoTests]">
+    <testcase name="firstTest" classname="test.java.DemoTests" time="0.0" displayname="firstTest()" uniqueid="[engine:junit-jupiter]/[class:test.java.DemoTests]/[method:firstTest()]"/>
+  </testsuite>
+</testrun>
