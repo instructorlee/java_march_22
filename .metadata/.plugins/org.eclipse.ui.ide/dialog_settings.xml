@@ -48,6 +48,7 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/Users/leeloftiss/Desktop/cd/java_pc_march_22/pc_zoo_app"/>
 			<item value="/Users/leeloftiss/Desktop/cd"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">

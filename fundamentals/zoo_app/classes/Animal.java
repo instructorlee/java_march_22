@@ -7,7 +7,6 @@ public class Animal {
     private String classification;
     private String name;
     private String type;
-
     private String zooKeeper = "Fred";
 
     private int energy = 50; // 0 - 100

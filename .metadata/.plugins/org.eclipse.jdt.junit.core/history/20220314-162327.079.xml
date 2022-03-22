@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="ZooApp" project="ZooApp" tests="3" started="3" failures="0" errors="0" ignored="0">
-  <testsuite name="test.java.DemoTests" time="0.026" displayname="DemoTests" uniqueid="[engine:junit-jupiter]/[class:test.java.DemoTests]">
-    <testcase name="thirdTest" classname="test.java.DemoTests" time="0.021" displayname="thirdTest()" uniqueid="[engine:junit-jupiter]/[class:test.java.DemoTests]/[method:thirdTest()]"/>
-    <testcase name="firstTest" classname="test.java.DemoTests" time="0.002" displayname="firstTest()" uniqueid="[engine:junit-jupiter]/[class:test.java.DemoTests]/[method:firstTest()]"/>
-    <testcase name="secondTest" classname="test.java.DemoTests" time="0.001" displayname="secondTest()" uniqueid="[engine:junit-jupiter]/[class:test.java.DemoTests]/[method:secondTest()]"/>
-  </testsuite>
-</testrun>
